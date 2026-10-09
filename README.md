@@ -1,0 +1,18 @@
+# KaonQuantum Tap
+
+## How do I install these formulae?
+
+`brew install kaonquantum/tap/<formula>`
+
+Or `brew tap kaonquantum/tap` and then `brew install <formula>`.
+
+Or, in a `brew bundle` `Brewfile`:
+
+```ruby
+tap "kaonquantum/tap"
+brew "<formula>"
+```
+
+## Documentation
+
+`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
